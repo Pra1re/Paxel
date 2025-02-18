@@ -8,8 +8,8 @@ To Check this project out Visit
 https://effortless-taiyaki-f76edf.netlify.app/
 ```
 ```http
-admin email = adnansami97952@gmail.com
-admin pass = Ungabunga!7
+admin email = ***@gmail.com
+admin pass = ***
 ```
 ## Technologies Used
 
