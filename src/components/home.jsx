@@ -8,6 +8,7 @@ import WhyChooseUs from './why';
 import { authcontext } from '../provider/authprovider';
 import Features from './feature';
 import Topdelman from './topdelman';
+import FAQ from './faq';
 
 
 
@@ -22,6 +23,7 @@ const Home = () => {
             <Firstbanner></Firstbanner>
             <Features></Features>
             <Topdelman></Topdelman>
+            <FAQ></FAQ>
             {/* <WhyChooseUs></WhyChooseUs> */}
             
             
