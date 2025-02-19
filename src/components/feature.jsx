@@ -56,7 +56,7 @@ const Features = () => {
       </p>
 
       <motion.div
-        className="flex flex-wrap justify-center gap-6 mb-12"
+        className="flex flex-wrap justify-between w-[90%] m-auto gap-6 mb-16"
         initial="hidden"
         animate="visible"
         variants={{

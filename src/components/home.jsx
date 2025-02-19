@@ -9,6 +9,7 @@ import { authcontext } from '../provider/authprovider';
 import Features from './feature';
 import Topdelman from './topdelman';
 import FAQ from './faq';
+import NewsletterSubscription from './newsletter';
 
 
 
@@ -24,6 +25,7 @@ const Home = () => {
             <Features></Features>
             <Topdelman></Topdelman>
             <FAQ></FAQ>
+            <NewsletterSubscription></NewsletterSubscription>
             {/* <WhyChooseUs></WhyChooseUs> */}
             
             
