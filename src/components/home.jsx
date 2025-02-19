@@ -10,6 +10,7 @@ import Features from './feature';
 import Topdelman from './topdelman';
 import FAQ from './faq';
 import NewsletterSubscription from './newsletter';
+import Newsletter from './newsletter';
 
 
 
@@ -25,7 +26,7 @@ const Home = () => {
             <Features></Features>
             <Topdelman></Topdelman>
             <FAQ></FAQ>
-            <NewsletterSubscription></NewsletterSubscription>
+            <Newsletter/>
             {/* <WhyChooseUs></WhyChooseUs> */}
             
             
